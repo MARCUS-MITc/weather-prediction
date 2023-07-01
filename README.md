@@ -1,4 +1,4 @@
 # weather-prediction
-weather prediction of bengaluru using a ridge regression algorithm
-we have data from 1980 to 2022
-
+• Predicted the weather of bangalore using a ridge regression algorithm in Machine Learning
+• Daily climatology data were used from year 1990 to 2022
+Achieved accuracy of 96.5% while prediction
